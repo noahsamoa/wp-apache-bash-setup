@@ -7,7 +7,7 @@ This Bash script automates the setup of a WordPress site on an Apache server. Fo
 1. Run the script:
 
     ```bash
-    bash script.sh
+    bash apache_script.sh
     ```
 
 2. Enter the desired site name, site URL (domain or server IP), WordPress database name, WordPress database user, and MySQL root password as prompted.
