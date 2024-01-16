@@ -101,7 +101,3 @@ This Bash script automates the setup of a WordPress site on an Apache server. Fo
     sudo certbot --apache
     (crontab -l 2>/dev/null; echo "0 0 1 * * certbot renew") | crontab -
     ```
-
-### Script Customization:
-
-Feel free to customize the script to fit your specific requirements. For detailed information, refer to the script comments and logs in case of errors during execution.
